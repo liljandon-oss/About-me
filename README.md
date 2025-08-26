@@ -1,1 +1,5 @@
 # About-me
+👋 Hi! Ako si Janry.  
+- 🌱 Gusto kong matuto ng programming at IT  
+- 🚀 Pangarap kong maging professional programmer  
+- 💼 Mahilig din ako sa business at investing  
